@@ -1,0 +1,13 @@
+.descriptionBlock{
+    padding: 10px;
+}
+
+.content img{
+    border-radius: 30px;
+    overflow: hidden;
+    max-width: 200px;
+}
+
+.contact {
+    margin: 10px;
+}

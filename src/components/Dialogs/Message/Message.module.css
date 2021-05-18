@@ -1,0 +1,15 @@
+.message{
+    padding: 10px;
+    border: 1px solid #7e1919;
+    width: 70px;
+    border-radius: 40px;
+    margin-top: 10px;
+    background-color: #41858d;
+}
+
+
+.message:nth-child(odd){
+    margin-right: 10px;
+    color:darkturquoise;
+    float: right;
+}

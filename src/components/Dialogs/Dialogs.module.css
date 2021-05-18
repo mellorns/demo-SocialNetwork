@@ -1,0 +1,36 @@
+
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems{
+padding: 20px;
+}
+.dialog{
+    padding: 10px 10px 10px 0px;
+
+}
+
+.dialog texta{
+    margin: 0 auto;
+}
+
+.dialog img{
+    width: 20px;
+}
+
+
+.dialog a{
+    color:white;
+    text-decoration: none;}
+
+
+.massages{
+
+    padding: 30px;
+}
+.massages  .massage{
+padding: 10px;
+    color:aquamarine;
+}
